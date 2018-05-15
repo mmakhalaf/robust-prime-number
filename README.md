@@ -2,6 +2,8 @@
 
 Programming test to get the nth robust prime number.
 
+Run on Coliru ( http://coliru.stacked-crooked.com/a/6fab24130999b093 )
+
 ## Background
 For the purposes of this programming test, we define a Robustly Prime Number (RPN) to be a prime number which has no ‘0’ digits and remains prime when you remove any contiguous sequence of digits from the left of it.
 

@@ -1,4 +1,4 @@
-# robust-prime-number
+# Robustly Prime Numbers
 
 Programming test to get the nth robust prime number.
 
